@@ -19,7 +19,7 @@ Passionate about building software, understanding internals, solving problems, a
 # 🧠 About Me
 
 - 🎓 Computer Science Student
-- 🔥 Maintaining a 172+ day LeetCode problem-solving streak
+- 🔥 Maintaining a 236+ day LeetCode problem-solving streak
 - 🧩 Practicing Data Structures & Algorithms consistently
 - 🔨 Building projects to understand systems deeply
 - 🌍 Exploring Open Source & collaborative development
